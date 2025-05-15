@@ -1,0 +1,97 @@
+__label__bad Kamu bodoh
+__label__bad Dasar penipu
+__label__bad Tidak tahu malu
+__label__bad Kurang ajar
+__label__bad Diam saja, tidak berguna
+__label__bad Otak udang
+__label__bad Goblok banget
+__label__bad Dasar pembohong
+__label__bad Jangan sok pintar
+__label__bad Bajingan
+__label__bad Dasar idiot
+__label__bad Kamu tolol banget
+__label__bad Gak ada otak
+__label__bad Dasar pengecut
+__label__bad Kamu bikin malu
+__label__bad Anjing lo
+__label__bad Dasar bangsat
+__label__bad Muka tembok
+__label__bad Kacung aja lo
+__label__bad Jangan ikut campur urusan orang
+__label__bad Ngomong kosong
+__label__bad Dasar miskin
+__label__bad B0doh banget
+__label__bad G0blok lo
+__label__bad Kamu sialan
+__label__bad Baj!ngan
+__label__bad Bang$at
+__label__bad L0ser
+__label__bad Ngomong doang
+__label__bad Dasar lemah
+__label__bad T0lol
+__label__bad Ga guna
+__label__bad No skill
+__label__bad Lo cuma cari perhatian
+__label__bad Otak kosong
+__label__bad Apa gunanya kamu di sini?
+__label__bad Tidak ada otak
+__label__bad Kamu cuma bikin ribut
+__label__bad Tidak berguna
+__label__bad Dasar malas
+__label__bad Menyebalkan sekali
+__label__bad Jangan ganggu saya
+__label__bad Ngapain juga di sini?
+__label__bad Lo gak paham apa-apa
+__label__bad Sok tahu banget
+__label__bad Ini omong kosong semua
+__label__bad Dasar egois
+__label__bad Kamu itu cuma omdo
+__label__bad Gak usah sok suci
+__label__bad Memalukan banget
+__label__bad Kamu benar-benar bodoh
+__label__bad Diamlah, kamu tidak tahu apa-apa
+__label__bad Jangan ikut campur, goblok
+__label__bad Kamu sangat menjijikkan
+__label__bad Tidak ada yang suka sama kamu
+__label__bad Kenapa gak diam aja sih?
+__label__bad Ngomong doang, action nol
+__label__bad Kamu itu cuma beban
+__label__bad Lo bikin semuanya kacau
+__label__bad Apa kamu gak malu?
+__label__bad Dasar muka tembok
+__label__bad Semua ini salah kamu
+__label__bad Lo gak ada gunanya
+__label__bad Jangan bertingkah, bodoh
+__label__bad Kamu bikin semua orang kesal
+__label__bad Kenapa sih lo ada di sini?
+__label__bad Gak ada yang butuh lo di sini
+__label__bad Kamu hanya bikin masalah
+__label__bad Berhenti sok pintar
+__label__bad Lo cuma cari perhatian
+__label__bad Gak usah ikut-ikutan
+__label__bad Lo gak penting
+__label__bad Kenapa gak pergi aja?
+__label__bad Jangan ngomong lagi, menjijikkan
+__label__bad Tidak ada yang mau dengar omongan kamu
+__label__bad Judi online tidak baik
+__label__good Saya suka video ini
+__label__good Sangat membantu sekali
+__label__good Terima kasih banyak
+__label__good Kamu hebat
+__label__good Luar biasa videonya
+__label__good Mantap sekali
+__label__good Terima kasih atas bantuannya
+__label__good Saya senang sekali menonton ini
+__label__good Bagus banget
+__label__good Saya belajar banyak
+__label__good Video yang sangat menarik
+__label__good Top banget, terima kasih!
+__label__good Kamu orang baik
+__label__good Saya setuju dengan ini
+__label__good Sangat memotivasi
+__label__good Terus berkarya!
+__label__good Semangat terus
+__label__good Terima kasih banyak, sangat bermanfaat
+__label__good Saya mendukungmu
+__label__good Sukses selalu
+__label__good Judi online bikin hidup hancur
